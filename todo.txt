@@ -1,0 +1,1 @@
+-- generate supersymmetric cuts for N=1,2 SUGRA as double copy with pure GR
